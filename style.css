@@ -7,8 +7,11 @@
 
 /* Images */
 img {
-  border-radius: 50%;
-  object-fit: cover;
+  width: 150px; /* Ajuste la largeur selon tes besoins */
+  height: 150px; /* Maintient une forme carrée */
+  border-radius: 50%; /* Garde l'image ronde */
+  object-fit: cover; /* Assure que l'image est bien recadrée */
+  margin: 20px auto; /* Centrage vertical si nécessaire */
 }
 
 /* Corps du site */
