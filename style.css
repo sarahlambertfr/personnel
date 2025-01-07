@@ -1,3 +1,9 @@
+@media (max-width: 768px) {
+  img {
+    width: 100px; /* Taille réduite sur mobiles */
+    height: 100px;
+  }
+}
 /* Reset CSS */
 * {
   margin: 0;
